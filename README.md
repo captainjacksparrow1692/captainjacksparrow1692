@@ -10,9 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=captainjacksparrow1692&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
-  <img src="https://github-readme-stats-captainjacksparrow1692.vercel.app/api?username=captainjacksparrow1692&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=captainjacksparrow1692&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> 
+  <img src="https://github-readme-stats-captainjacksparrow1692.vercel.app/api/top-langs/?username=captainjacksparrow1692&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
