@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=captainjacksparrow1692&theme=dracula" height="150" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainjacksparrow1692&layout=compact&theme=dracula" height="150" alt="languages" />
 </div>
 
 ###
