@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" height="150" src="./assets/ship.jpg" />
+<img align="right" height="150" src="./assets/ship2.jpg" />
 
 ## 🛠 Tech Stack
 
