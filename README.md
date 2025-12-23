@@ -11,13 +11,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainjacksparrow1692&layout=compact&theme=transparent" />
+   <img src="https://metrics.lecoq.io/CaptainJackSparrow1692?template=minimal&languages=1" />
 </p>
 
----
 
-<img align="right" height="150" src="./assets/ship.jpg" />
+<img align="right" height="150" src="./assets/ship2.jpg" />
 
 ## 🛠 Tech Stack
 
