@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
@@ -11,7 +12,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=captainjacksparrow1692&theme=dracula" height="150" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainjacksparrow1692&layout=compact&theme=dracula" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=captainjacksparrow1692&theme=dracula" />
 </div>
 
 ###
@@ -42,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:makhmudovsardor95@gmail.com" target="_blank">
+  <a href="makhmudovsardor95@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://t.me/CaptainJackSparrow1692" target="_blank">
@@ -59,3 +60,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+###
