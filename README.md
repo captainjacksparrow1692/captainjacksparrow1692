@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" height="150" src="https://github.com/captainjacksparrow1692/captainjacksparrow1692/blob/39202c436bcbba5b025ae934f69289f32ec8c579/assets/ship.jpg" />
+<img align="right" height="150" src="./assets/ship.jpg" />
 
 ## 🛠 Tech Stack
 
