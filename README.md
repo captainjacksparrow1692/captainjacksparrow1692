@@ -6,7 +6,7 @@
   Hi 👋! My name is Sardor and I'm a Backend Developer from Tashkent
 </h2>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -37,11 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
 </p>
 
----
 
 ## 📫 Contact Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:makhmudovsardor95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
@@ -50,7 +49,6 @@
   </a>
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
