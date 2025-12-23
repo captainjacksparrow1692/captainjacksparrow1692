@@ -15,10 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainjacksparrow1692&layout=compact&theme=transparent" />
 </p>
 
----
-
-
-
 
 <img align="right" height="150" src="./assets/ship2.jpg" />
 
