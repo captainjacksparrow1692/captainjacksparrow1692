@@ -11,24 +11,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://metrics.lecoq.io/CaptainJackSparrow1692
-    ?template=classic
-    &base.header=0
-    &base.activity=1
-    &base.community=0
-    &base.metadata=0
-    &languages=1
-    &languages.limit=6
-    &languages.threshold=0%
-    &languages.colors=github
-    &languages.details=bytes-size
-    &languages.indepth=true
-    &achievements=1
-    &achievements.threshold=C
-    &achievements.secrets=true
-    &config.timezone=Asia/Tashkent"
-  />
+   <img src="https://metrics.lecoq.io/CaptainJackSparrow1692?template=minimal&languages=1" />
 </p>
 
 
